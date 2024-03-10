@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harshita Singh
 - 👀 I’m interested in Coding in FullStack
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Fullstack Dec
+- 💞️ I’m looking to collaborate on Fullstack Dev
 - 📫 You can contact me on my e-mail-choudharyharshita2001@gmail.com
